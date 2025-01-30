@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Neyaz APIs "
+  message: "Welcome to EazyBank accounts related Docker APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}048b70032c5e50151db880d526d8a09a7f8e2fd8ebcaf0b03442c9a65c64ae19"
